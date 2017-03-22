@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Freelancer\Fate\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\Freelancer\Fate\app\build\intermediates\pre-dexed\release\internal_impl-23.0.1-8c791c0e9f9368fed79d22128e9bc3b638d52d93.jar" />
+    </item>
+    <item
+        jar="E:\Freelancer\Fate\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\Freelancer\Fate\app\build\intermediates\pre-dexed\release\classes-57b7b958c5bd0c6a5ef686a0ae1b9cae0722cba5.jar" />
+    </item>
+    <item
+        jar="E:\Freelancer\Fate\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\Freelancer\Fate\app\build\intermediates\pre-dexed\release\classes-08935c90d34f9e167f5ab2d1a1c407dc0d022da6.jar" />
+    </item>
+    <item
+        jar="D:\Softwares\adt-bundle-windows-x86_64-20140702\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\Freelancer\Fate\app\build\intermediates\pre-dexed\release\support-annotations-23.0.1-083c596ea90938a203a49d5903d2a35e18bae698.jar" />
+    </item>
+    <item
+        jar="E:\Freelancer\Fate\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="E:\Freelancer\Fate\app\build\intermediates\pre-dexed\release\classes-501be5bec43c235f702333ba619e9637c45e7fce.jar" />
+    </item>
+
+</items>

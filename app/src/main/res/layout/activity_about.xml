@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="com.sahajarora.fate.AboutActivity"
+    android:background="#070404">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="About Us"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        android:textColor="#c4951f"
+        android:id="@+id/textView2"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <ScrollView
+        android:layout_marginTop="20dp"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fillViewport="true">
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:textSize="25sp"
+        android:text= "FATE restaurant is run by Li Zhang and Jian Fei Chen. Li, a graduate of Hospitality
+management in DIT, is no stranger to the dining customs of Ireland having lived here
+for almost 11 years. Similarly Jian Fei has vast experience in the restaurant business
+having previously  run a restaurant in Navan, Co. Meath. Finally, the culinary skills
+and expertise are brought to the business by our Head Chef Xu Chen who has been
+a chef for almost fifteen years. Once you have tasted a dish prepared by Chef Xu we’
+re sure you’ll agree he is an exceptional talent in his field.
+
+FATE restaurant can be found in the bustling town of Naas in Co. Kildare. Serving
+both Asian and European styled food; FATE strives to cater for people who like
+something a little different. An authentic Asian meal can be had and if so desired,
+mashed potatoes can be served on the side for those who still like to taste a little bit
+of Ireland! We also take pride in catering for those special occasions such as
+birthday parties, special Valentine’s romantic dinners, Hen parties, leaving parties
+and many more. Of course we also cater for the seasonal office Christmas parties
+with excellent rates to suit all. Please don’t hesitate to contact us for more details and
+we will be delighted to help you. Finally, we also cater also for those who like to
+comfort of the sofa with a swift delivery service for our Asian food direct to the home.
+
+We, at FATE restaurant, also realise that in the current economic climate that people
+expect value for money and keen prices. We promise to offer a fine dining
+experience in beautiful surroundings at a price significantly less than what you would
+expect to pay and certainly a lot less than our competitors.
+
+So there is only one way to find out what our combination of skills offers in terms of a
+dining experience. Come in or order out, which ever you prefer and prepare for a
+taste sensation!!  "/>
+    </ScrollView>
+</LinearLayout>
